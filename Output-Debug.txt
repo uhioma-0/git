@@ -1,0 +1,21 @@
+﻿'Husni -Object.exe' (Win32): Loaded 'C:\Users\husni1\Documents\Object-oriented-luleå - Copy\Object-oriented-luleå - Copy\husni\Husni -Object\x64\Release\Husni -Object.exe'. Symbols loaded.
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-runtime-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-heap-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-math-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-stdio-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-locale-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-string-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-filesystem-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-time-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-environment-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-convert-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\api-ms-win-crt-utility-l1-1-0.dll'. 
+'Husni -Object.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+The thread 0x1a78 has exited with code 0 (0x0).
+The program '[1716] Husni -Object.exe' has exited with code 0 (0x0).

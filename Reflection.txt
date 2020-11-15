@@ -1,0 +1,9 @@
+
+REFLECTION ON LAB ASSIGNMENT ONE
+The first lab assignment in the course Object Oriented programming is in my vision a good starting point as it 
+introduced student to simple c++ language. in the assignment i have learned about how to use scanf and printf. i had took introduction 
+to programiing in c++ 5 years ago. so, most of the question in the lab assignment were helpfull in making me remeber the language
+.The most difficult task for me was understadning the error massages and using them to correct bugs in my code. i have tried to goodle
+the errors to understand what i did wrong in the code. overall the lab was good introduction. However i would like if the a discussion form is created for students to
+discuss the assigmnets. i have seen no discussion on canvas, therefore, students may be not familier with canvas discussion forum.
+overall, i like the task and i approxiamelty took me 5 Hours to complete.
